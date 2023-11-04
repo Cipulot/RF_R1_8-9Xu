@@ -140,6 +140,18 @@
                             ]
                         },
                         {
+                            "label": "Noise Floor Calibration (DO NOT PRESS ANY KEY WHILE CLICKING)",
+                            "type": "button",
+                            "options": [
+                                0
+                            ],
+                            "content": [
+                                "id_noise_floor_calibration",
+                                0,
+                                9
+                            ]
+                        },
+                        {
                             "label": "Show Calibration Data",
                             "type": "button",
                             "options": [
@@ -148,7 +160,7 @@
                             "content": [
                                 "id_show_calibration_data",
                                 0,
-                                9
+                                10
                             ]
                         }
                     ]
