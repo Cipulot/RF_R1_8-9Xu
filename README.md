@@ -80,7 +80,3 @@ It is what it is.
 For real though, the PCB is a replacement for the original Realforce R1 PCB so using the original plates is the preferred option. Furthermore, the multilayout support makes it tedious to make a plate design for each and every layout.
 
 Nevertheless, if there's a particular plate config you want to use, you can always open an issue on the repository or even better make a PR from your own fork.
-
-## Copyright notice
-
-This project is released under the MIT License. For the license, please refer to the LICENSE.md file.
