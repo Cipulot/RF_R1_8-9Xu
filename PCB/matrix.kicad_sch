@@ -6,8 +6,8 @@
 
   (title_block
     (title "RF_R1_8-9Xu PCB")
-    (date "2023-11-17")
-    (rev "1.1")
+    (date "2023-11-23")
+    (rev "1.2")
     (company "LU.SV Solutions")
     (comment 1 "Cipulot PCB Design")
     (comment 2 "Cipulot")
@@ -3722,7 +3722,7 @@
   (symbol (lib_id "power:GND") (at 403.225 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5bad871e-c4a1-4aee-a057-4f3e237ce1aa)
-    (property "Reference" "#PWR048" (at 403.225 115.57 0)
+    (property "Reference" "#PWR051" (at 403.225 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 403.225 113.6634 0)
@@ -3738,7 +3738,7 @@
     (instances
       (project "RF_R1_8-9Xu"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/d1422f38-9fce-4f5e-878a-341530beaf9c"
-          (reference "#PWR048") (unit 1)
+          (reference "#PWR051") (unit 1)
         )
       )
     )
@@ -3828,7 +3828,7 @@
   (symbol (lib_id "power:GND") (at 198.755 200.025 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 61a05307-c4b0-40cb-bfa0-5ae2ed61729b)
-    (property "Reference" "#PWR055" (at 198.755 206.375 0)
+    (property "Reference" "#PWR058" (at 198.755 206.375 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 198.755 204.4684 0)
@@ -3844,7 +3844,7 @@
     (instances
       (project "RF_R1_8-9Xu"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/d1422f38-9fce-4f5e-878a-341530beaf9c"
-          (reference "#PWR055") (unit 1)
+          (reference "#PWR058") (unit 1)
         )
       )
     )
@@ -4150,7 +4150,7 @@
   (symbol (lib_id "power:GND") (at 317.5 157.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6da35f4b-83ca-42ca-95e8-43236e13b98d)
-    (property "Reference" "#PWR051" (at 317.5 163.83 0)
+    (property "Reference" "#PWR054" (at 317.5 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 317.5 161.9234 0)
@@ -4166,7 +4166,7 @@
     (instances
       (project "RF_R1_8-9Xu"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/d1422f38-9fce-4f5e-878a-341530beaf9c"
-          (reference "#PWR051") (unit 1)
+          (reference "#PWR054") (unit 1)
         )
       )
     )
@@ -4202,7 +4202,7 @@
   (symbol (lib_id "power:GND") (at 160.655 200.025 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 74b71f3f-7ef4-4a2b-a0cf-2e608e34b216)
-    (property "Reference" "#PWR054" (at 160.655 206.375 0)
+    (property "Reference" "#PWR057" (at 160.655 206.375 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 160.655 204.4684 0)
@@ -4218,7 +4218,7 @@
     (instances
       (project "RF_R1_8-9Xu"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/d1422f38-9fce-4f5e-878a-341530beaf9c"
-          (reference "#PWR054") (unit 1)
+          (reference "#PWR057") (unit 1)
         )
       )
     )
@@ -4470,7 +4470,7 @@
   (symbol (lib_id "power:GND") (at 403.225 140.335 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8e5d26e3-974b-4940-958f-ba985c025fef)
-    (property "Reference" "#PWR050" (at 403.225 146.685 0)
+    (property "Reference" "#PWR053" (at 403.225 146.685 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 403.225 144.7784 0)
@@ -4486,7 +4486,7 @@
     (instances
       (project "RF_R1_8-9Xu"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/d1422f38-9fce-4f5e-878a-341530beaf9c"
-          (reference "#PWR050") (unit 1)
+          (reference "#PWR053") (unit 1)
         )
       )
     )
@@ -5035,7 +5035,7 @@
   (symbol (lib_id "power:GND") (at 403.225 188.595 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d438828a-33a0-43f4-9be2-85fa608670f8)
-    (property "Reference" "#PWR053" (at 403.225 194.945 0)
+    (property "Reference" "#PWR056" (at 403.225 194.945 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 403.225 193.0384 0)
@@ -5051,7 +5051,7 @@
     (instances
       (project "RF_R1_8-9Xu"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/d1422f38-9fce-4f5e-878a-341530beaf9c"
-          (reference "#PWR053") (unit 1)
+          (reference "#PWR056") (unit 1)
         )
       )
     )
@@ -5087,7 +5087,7 @@
   (symbol (lib_id "power:GND") (at 403.225 125.095 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid de2426ef-a579-4aae-b837-f9f45252b778)
-    (property "Reference" "#PWR049" (at 403.225 131.445 0)
+    (property "Reference" "#PWR052" (at 403.225 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 403.225 129.5384 0)
@@ -5103,7 +5103,7 @@
     (instances
       (project "RF_R1_8-9Xu"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/d1422f38-9fce-4f5e-878a-341530beaf9c"
-          (reference "#PWR049") (unit 1)
+          (reference "#PWR052") (unit 1)
         )
       )
     )
@@ -5571,7 +5571,7 @@
   (symbol (lib_id "power:GND") (at 403.225 172.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fbcc0461-8fe8-4c4d-a7e4-5a8d7240bee4)
-    (property "Reference" "#PWR052" (at 403.225 179.07 0)
+    (property "Reference" "#PWR055" (at 403.225 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 403.225 177.1634 0)
@@ -5587,7 +5587,7 @@
     (instances
       (project "RF_R1_8-9Xu"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/d1422f38-9fce-4f5e-878a-341530beaf9c"
-          (reference "#PWR052") (unit 1)
+          (reference "#PWR055") (unit 1)
         )
       )
     )

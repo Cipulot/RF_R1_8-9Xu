@@ -6,8 +6,8 @@
 
   (title_block
     (title "RF_R1_8-9Xu PCB")
-    (date "2023-11-17")
-    (rev "1.1")
+    (date "2023-11-23")
+    (rev "1.2")
     (company "LU.SV Solutions")
     (comment 1 "Cipulot PCB Design")
     (comment 2 "Cipulot")
@@ -870,7 +870,7 @@
   (symbol (lib_id "power:GND2") (at 52.07 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a5c6caab-1066-4c2d-aca6-8a967a6784e8)
-    (property "Reference" "#PWR0102" (at 52.07 41.91 0)
+    (property "Reference" "#PWR070" (at 52.07 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND2" (at 52.07 40.0034 0)
@@ -886,7 +886,7 @@
     (instances
       (project "RF_R1_8-9Xu"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/004107b0-ccf4-476d-9504-97bf1a9256af"
-          (reference "#PWR0102") (unit 1)
+          (reference "#PWR070") (unit 1)
         )
       )
     )
