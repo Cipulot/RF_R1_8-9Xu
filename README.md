@@ -69,6 +69,8 @@ This revision implements the following changes:
   * added filtering components for USB-C shield
   * improved ground stitching
 
+Note: not all screw holes are used in the layouts and some layouts may not have usable holes at all.
+
 ![PCB Front Render Rev 1.1](/Assets/PCB_render_front_1_1.png)
 
 ## "Why no plates?" I hear you say
